@@ -1,0 +1,1 @@
+docker run --name file-rename-i1 -v D:/docker:/home -it file-rename
